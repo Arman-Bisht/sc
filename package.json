@@ -1,0 +1,12 @@
+{
+  "name": "superconstruction",
+  "version": "1.0.0",
+  "description": "Premium Construction & Engineering Website",
+  "scripts": {
+    "start": "npx live-server --port=3000 --open=index.html",
+    "dev": "npx live-server --port=3000 --open=index.html"
+  },
+  "keywords": ["construction", "website", "html", "tailwind"],
+  "author": "SuperConstruction",
+  "license": "MIT"
+}
