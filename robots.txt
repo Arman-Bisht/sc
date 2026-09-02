@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /project/
 
-Sitemap: https://www.superconstruction.com/sitemap.xml
+Sitemap: https://superconstructionco.in/sitemap.xml
